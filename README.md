@@ -1,12 +1,12 @@
 # Tkinter-Password-Generator🔐
 
 <p><img src="Instructions/python_f5OIluDTWZ.png"></p>
-<h2>Instructions🗒️</h2>
+## Instructions 🗒️
 
-<h3>1). Generate-button. It will generate a random Password.</h3>
-<h3>2). Copy-button. It will copy the password.</h3>
-<h3>3). Save-button. It will create a .txt file and saves a password to the same .txt file every time it is clicked.</h3>
-<h3>4). exit-button. it will close the application.</h3>
+1. **Generate**: Click the button to generate a random secure password.
+2. **Copy**: Copy the generated password to your clipboard.
+3. **Save**: Save the password to a `.txt` file. Each new password is appended to the same file.
+4. **Exit**: Securely close the application.
 
 ## 📄 File Details
 - **Format:** Plain text (.txt)
