@@ -9,12 +9,12 @@
 4. **Exit:** Securely close the application
 
 ## 📄 File Details
-- **Format:** Plain text (.txt)
+- **Format:** Plain text `.txt`
 - **Encoding:** UTF-8
 - **Location:** Desktop
 
 ## ⚠️ Security Warning
-- **Confidentiality:** This (.txt) file contains sensitive information. Do not share this file with anyone.
+- **Confidentiality:** This `.txt` file contains sensitive information. Do not share this `.txt` file with anyone.
 - **Protection:** It is recommended to move these passwords to a dedicated password manager or encrypt this file if you are on a shared computer.
 
 ---
