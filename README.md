@@ -14,7 +14,7 @@
 - **Location:** Desktop
 
 ## ⚠️ Security Warning
-- **Confidentiality:** This file contains sensitive information. Do not share this file with anyone.
+- **Confidentiality:** This (.txt) file contains sensitive information. Do not share this file with anyone.
 - **Protection:** It is recommended to move these passwords to a dedicated password manager or encrypt this file if you are on a shared computer.
 
 ---
