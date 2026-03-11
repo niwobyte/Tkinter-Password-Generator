@@ -1,6 +1,6 @@
 # Tkinter-Password-Generator🔐
 
-<p><img src="Instructions/python_f5OIluDTWZ.png"></p>
+<p><img src="assets/preview.png"></p>
 
 ## 🗒️Instructions
 1. **Generate:** Click the button to generate a random secure password
