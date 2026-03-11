@@ -25,6 +25,17 @@ This project is built with a focus on security, using modern Python standards.
 *   **High Entropy:** By using `secrets`, the application leverages the most secure sources of randomness provided by your operating system (e.g., `/dev/urandom` on Linux/macOS or `CryptGenRandom` on Windows).
 *   **Safe Handling:** The app includes built-in security warnings to remind users that generated passwords should never be stored in unencrypted `.txt` files.
 
+## 🛠️ Installation & Setup
+
+To run this project, you need to have **Python 3.x** installed.
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/niwobyte/Tkinter-Password-Generator.git
+   cd Tkinter-Password-Generator
+   pip install -r requirements.txt
+   python Passwort-GNR.py
+
 > [!IMPORTANT]
 > Always use a dedicated password manager (like Bitwarden or KeePassXC) to store your passwords securely.
 
