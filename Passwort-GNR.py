@@ -28,14 +28,14 @@ def path(rel_path):
 
 
 icon2 = ctk.CTkImage(
-    light_image=Image.open(path("Tkinter-Password-Generator-projekt/save.png")),
-    dark_image=Image.open(path("Tkinter-Password-Generator-projekt/save.png")),
+    light_image=Image.open(path("save.png")),
+    dark_image=Image.open(path("save.png")),
     size=(18, 18)
 )
 
 icon3 = ctk.CTkImage(
-    light_image=Image.open(path("Tkinter-Password-Generator-projekt/open.png")),
-    dark_image=Image.open(path("Tkinter-Password-Generator-projekt/open.png")),
+    light_image=Image.open(path("open.png")),
+    dark_image=Image.open(path("open.png")),
     size=(18, 18)
 )
 
